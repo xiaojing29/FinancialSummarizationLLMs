@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Colab and Google-specific
+*.ipynb.save
+*.ipynb-uploaded
+.gdrive/
+.gcolab/
+
+# Output files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.log
+*.out
+
+# Model artifacts
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.h5
+runs/
+wandb/
+checkpoints/
+
+# Dataset cache
+data/
+.cache/
+*.zip
+*.tar.gz
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment variables / credentials
+.env
+*.env
+token.json
