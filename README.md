@@ -9,14 +9,8 @@ This project investigates parameter-efficient fine-tuning of small large languag
 
 ## Project Structure
 
-project-root/
-│
-├── notebooks/                  # Fine-tuning and evaluation notebooks (Phi-3.5 and LLaMA-3.2)
-│   ├── phi3_finetuning.ipynb
-│   └── llama3_finetuning.ipynb
-│
-├── Project Report.pdf          # Full report describing methodology, experiments, and findings
-└── README.md
+- `notebooks/` — Fine-tuning and evaluation notebooks (Phi-3.5 and LLaMA-3.2)
+- `Project Report` — Final written report detailing methodology and results
 
 ---
 
